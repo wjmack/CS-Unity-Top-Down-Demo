@@ -1,12 +1,12 @@
 # CS-Unity-Top-Down-Demo
-**Description**
+**Description**  
 A top-down 2D game demo made using the Unity Engine. <br />
 Player movement and interactable object detection are scripted with C#. <br />
 Animations for player and [E] interaction indicator were created using Unity's built-in animator. <br />
 Scripts can be found in Assets/Scripts. <br />
 A sound will play when the user interacts with an object, like a sign or a door. <br />
 
-**Credits**
+**Credits**  
 Sounds are created using Audacity. <br />
 Sign texture and [E] interaction indicator created using Photopea. <br />
 All other textures are from itch.io public game assets. <br />
