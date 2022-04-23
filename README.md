@@ -20,4 +20,4 @@ E - Interact w/ Object
 Run the executable in the build folder. The executable relies on files within the build folder, and cannot run independently.
 
 **Note**  
-Scripts can be found in Assets/Scripts/Actors/Player  
+Scripts can be found in <a href="https://github.com/wjmack/CS-Unity-Top-Down-Demo/tree/main/Assets/Scripts/Actors/Player">Assets/Scripts/Actors/Player</a>  
