@@ -1,6 +1,6 @@
 # CS-Unity-Top-Down-Demo
 **Description**  
-A top-down 2D game demo made using the Unity Engine. <br />
+A simple top-down 2D game demo made using the Unity Engine. <br />
 Player movement and interactable object detection are scripted with C#. <br />
 Animations for player and [E] interaction indicator were created using Unity's built-in animator. <br />
 Scripts can be found in Assets/Scripts. <br />
