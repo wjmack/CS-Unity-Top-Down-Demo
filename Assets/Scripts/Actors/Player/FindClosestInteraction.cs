@@ -26,7 +26,7 @@ public class FindClosestInteraction : MonoBehaviour
 				// Debug.Log("You are near an interactable named "+currentInteractable.gameObject.name);
 				
 				canInteract = distanceToClosestInteractable <= maxDistance;
-        		closestInteractable.transform.GetChild(0).gameObject.SetActive(canInteract);
+        			closestInteractable.transform.GetChild(0).gameObject.SetActive(canInteract);
 				if(Input.GetKeyDown("e") && canInteract)
 				{
 					Debug.Log("You interacted with "+currentInteractable.name);
