@@ -15,3 +15,6 @@ All other textures are from itch.io public game assets. <br />
 WASD - Move Player <br />
 LShift - Sprint <br />
 E - Interact w/ Object <br />
+
+**How to Play**<br />
+Run the executable in the build folder
