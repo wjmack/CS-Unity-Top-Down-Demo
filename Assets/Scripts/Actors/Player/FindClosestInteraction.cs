@@ -22,21 +22,15 @@ public class FindClosestInteraction : MonoBehaviour
 			if (distanceToInteractable < distanceToClosestInteractable) {
 				distanceToClosestInteractable = distanceToInteractable;
 				closestInteractable = currentInteractable;
-
-				// Debug.Log("You are near an interactable named "+currentInteractable.gameObject.name);
-				
 				canInteract = distanceToClosestInteractable <= maxDistance;
         			closestInteractable.transform.GetChild(0).gameObject.SetActive(canInteract);
-				if(Input.GetKeyDown("e") && canInteract)
-				{
+				if(Input.GetKeyDown("e") && canInteract) {
 					Debug.Log("You interacted with "+currentInteractable.name);
 					closestInteractable.GetComponent<AudioSource>().Play(0);
 
 					Sign isSign = closestInteractable.GetComponent<Sign>();
 				}
 			}
-
-		
 		}
 	}
 }
