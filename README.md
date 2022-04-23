@@ -17,7 +17,8 @@ LShift - Sprint
 E - Interact w/ Object  
 
 **How to Play**  
-Run the executable in the build folder. The executable relies on files within the build folder, and cannot run independently.
+Run the executable in the build folder.  
+The executable relies on files within the build folder, and cannot run independently.
 
 **Note**  
 Scripts can be found in <a href="https://github.com/wjmack/CS-Unity-Top-Down-Demo/tree/main/Assets/Scripts/Actors/Player">Assets/Scripts/Actors/Player</a>  
