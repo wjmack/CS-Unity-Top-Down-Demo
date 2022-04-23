@@ -18,4 +18,4 @@ LShift - Sprint
 E - Interact w/ Object  
 
 **How to Play**  
-Run the executable in the build folder
+Run the executable in the build folder. The executable relies on files within the build folder, and cannot run independently.
