@@ -3,8 +3,7 @@
 **Description**  
 A simple top-down 2D game demo made using the Unity Engine.  
 Player movement and interactable object detection are scripted with C#.  
-Animations for player and [E] interaction indicator were created using Unity's built-in animator.  
-Scripts can be found in Assets/Scripts.  
+Animations for player and [E] interaction indicator were created using Unity's built-in animator. 
 A sound will play when the user interacts with an object, like a sign or a door.  
 
 **Credits**  
@@ -19,3 +18,6 @@ E - Interact w/ Object
 
 **How to Play**  
 Run the executable in the build folder. The executable relies on files within the build folder, and cannot run independently.
+
+**Note**  
+Scripts can be found in Assets/Scripts/Actors/Player  
