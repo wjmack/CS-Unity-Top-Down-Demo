@@ -7,7 +7,7 @@ public class FindClosestInteraction : MonoBehaviour
 	float maxDistance = 1.8f;
 	// Update is called once per frame
 	void Update () {
-		FindClosest ();
+		FindClosest();
 	}
 
 	void FindClosest()
