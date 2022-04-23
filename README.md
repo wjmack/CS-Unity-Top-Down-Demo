@@ -1,5 +1,5 @@
 # CS-Unity-Top-Down-Demo
-<img src="https://github.com/wjmack/CS-Unity-Top-Down-Demo/blob/main/game.png"/>
+<img src="https://github.com/wjmack/CS-Unity-Top-Down-Demo/blob/main/game.png" width=300/><br />
 **Description**  
 A simple top-down 2D game demo made using the Unity Engine. <br />
 Player movement and interactable object detection are scripted with C#. <br />
